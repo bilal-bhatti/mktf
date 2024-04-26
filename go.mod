@@ -1,4 +1,4 @@
-module github.com/lockdownlabs/tfplanner
+module github.com/bilal-bhatti/mktf
 
 go 1.22.1
 
