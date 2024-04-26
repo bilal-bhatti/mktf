@@ -7,9 +7,9 @@ go install github.com/bilal-bhatti/mktf@v0.0.1
 ```
 
 ## Usage
-* mktf
+* `mktf`
     * convert all *.tf.json files to *.tf in the current directory
-* mktf -
+* `mktf -`
     * read from stdin and write to stdout
-* mktf one.tf.json two.tf.json
+* `mktf one.tf.json two.tf.json`
     * convert provided list of *.tf.json files to convert
